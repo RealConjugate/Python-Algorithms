@@ -1,6 +1,7 @@
 # Python-Algorithms
 Miscellaneous algorithms, applications and small programs written in Python.
 
+- ASCII Run Length Encoding File Program (Dec 2020)
 - Tkinter Tutorial/Demo (Dec 2020)
 - 2 Variable Simplex Algorithm (Aug 2020)
 - Bin Packing (First-Fit Decreasing) (Jul 2020)
