@@ -1,3 +1,5 @@
+# Finds the number of, and generates, the possible combinations when an s-sided die is rolled n times.
+
 def Generate(n,s): # n rolls, s-sided die
     sequences = [([1] * n)]
     class1 = [0]*(s-1)
